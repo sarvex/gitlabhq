@@ -396,7 +396,7 @@ group :development do
 
   gem 'sprite-factory', '~> 1.7'
 
-  gem "listen", "~> 3.7"
+  gem "listen", "~> 3.8"
 end
 
 group :development, :test do
