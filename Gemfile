@@ -439,7 +439,7 @@ group :development, :test do
 
   gem 'test_file_finder', '~> 0.1.3'
 
-  gem 'sigdump', '~> 0.2.4', require: 'sigdump/setup'
+  gem 'sigdump', '~> 0.2.5', require: 'sigdump/setup'
 
   gem 'pact', '~> 1.63'
 end
