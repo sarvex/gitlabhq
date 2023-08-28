@@ -258,7 +258,7 @@ gem 're2', '~> 1.7.0'
 
 # Misc
 
-gem 'semver_dialects', '~> 1.2.1'
+gem 'semver_dialects', '~> 1.3.0'
 gem 'version_sorter', '~> 2.3'
 gem 'csv_builder', path: 'gems/csv_builder'
 
