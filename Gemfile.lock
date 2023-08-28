@@ -484,7 +484,7 @@ GEM
       elasticsearch-transport (= 7.13.3)
     elasticsearch-api (7.13.3)
       multi_json
-    elasticsearch-model (7.2.0)
+    elasticsearch-model (7.2.1)
       activesupport (> 3)
       elasticsearch (~> 7)
       hashie
@@ -871,7 +871,7 @@ GEM
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
     httpclient (2.8.3)
-    i18n (1.12.0)
+    i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     i18n_data (0.13.1)
     icalendar (2.8.0)
@@ -1025,7 +1025,7 @@ GEM
     msgpack (1.5.4)
     multi_json (1.14.1)
     multi_xml (0.6.0)
-    multipart-post (2.2.3)
+    multipart-post (2.3.0)
     murmurhash3 (0.1.7)
     mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
