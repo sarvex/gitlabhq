@@ -129,7 +129,7 @@ gem 'grape-swagger-entity', '~> 0.5.1', group: [:development, :test]
 # GraphQL API
 gem 'graphql', '~> 1.13.12'
 gem 'graphiql-rails', '~> 1.8'
-gem 'apollo_upload_server', '~> 2.1.0'
+gem 'apollo_upload_server', '~> 2.1.5'
 gem 'graphql-docs', '~> 2.1.0', group: [:development, :test]
 gem 'graphlient', '~> 0.5.0' # Used by BulkImport feature (group::import)
 
