@@ -428,7 +428,7 @@ group :development, :test do
   gem 'benchmark-ips', '~> 2.11.0', require: false
   gem 'benchmark-memory', '~> 0.1', require: false
 
-  gem 'knapsack', '~> 1.21.1'
+  gem 'knapsack', '~> 4.0.0'
   gem 'crystalball', '~> 0.7.0', require: false
 
   gem 'simple_po_parser', '~> 1.1.6', require: false
