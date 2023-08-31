@@ -8,4 +8,4 @@ if ENV.fetch('BUNDLER_CHECKSUM_VERIFICATION_OPT_IN', 'false') != 'false' # this 
   BundlerChecksum.patch!
 end
 
-gem 'rails', '~> 6.1.6.1'
+gem 'rails', '~> 6.1.7.0'
