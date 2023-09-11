@@ -286,7 +286,7 @@ gem 'atlassian-jwt', '~> 0.2.0'
 gem 'slack-messenger', '~> 2.3.4'
 
 # Hangouts Chat integration
-gem 'hangouts-chat', '~> 0.0.5', require: 'hangouts_chat'
+gem 'hangouts-chat', '~> 0.1.0', require: 'hangouts_chat'
 
 # Asana integration
 gem 'asana', '~> 0.10.13'
