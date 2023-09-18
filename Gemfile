@@ -539,7 +539,7 @@ gem 'google-protobuf', '~> 3.24', '>= 3.24.2'
 gem 'toml-rb', '~> 2.2.0'
 
 # Feature toggles
-gem 'flipper', '~> 0.25.0'
+gem 'flipper', '~> 0.25.4'
 gem 'flipper-active_record', '~> 0.25.0'
 gem 'flipper-active_support_cache_store', '~> 0.25.0'
 gem 'unleash', '~> 3.2.2'
