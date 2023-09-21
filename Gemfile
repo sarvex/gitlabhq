@@ -145,7 +145,7 @@ gem 'kaminari', '~> 1.2.2'
 gem 'hamlit', '~> 2.15.0'
 
 # Files attachments
-gem 'carrierwave', '~> 1.3'
+gem 'carrierwave', '~> 3.0'
 gem 'mini_magick', '~> 4.10.1'
 
 # for backups
