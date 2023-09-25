@@ -186,7 +186,7 @@ gem 'seed-fu', '~> 2.3.7'
 # Search
 gem 'elasticsearch-model', '~> 7.2'
 gem 'elasticsearch-rails', '~> 7.2', require: 'elasticsearch/rails/instrumentation'
-gem 'elasticsearch-api',   '7.13.3'
+gem 'elasticsearch-api',   '7.17.8'
 gem 'aws-sdk-core', '~> 3.181.0'
 gem 'aws-sdk-cloudformation', '~> 1'
 gem 'aws-sdk-s3', '~> 1.134.0'
