@@ -131,7 +131,7 @@ gem 'graphql', '~> 1.13.12'
 gem 'graphiql-rails', '~> 1.8'
 gem 'apollo_upload_server', '~> 2.1.5'
 gem 'graphql-docs', '~> 2.1.0', group: [:development, :test]
-gem 'graphlient', '~> 0.5.0' # Used by BulkImport feature (group::import)
+gem 'graphlient', '~> 0.6.0' # Used by BulkImport feature (group::import)
 
 # Generate Fake data
 gem 'ffaker', '~> 2.10'
