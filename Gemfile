@@ -479,7 +479,7 @@ group :test do
 
   gem 'graphlyte', '~> 1.0.0'
 
-  gem 'shoulda-matchers', '~> 5.1.0', require: false
+  gem 'shoulda-matchers', '~> 5.3.0', require: false
   gem 'email_spec', '~> 2.2.0'
   gem 'webmock', '~> 3.18.1'
   gem 'rails-controller-testing'
