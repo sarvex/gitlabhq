@@ -592,7 +592,7 @@ gem 'webauthn', '~> 3.0'
 # IPAddress utilities
 gem 'ipaddress', '~> 0.8.3'
 
-gem 'parslet', '~> 1.8'
+gem 'parslet', '~> 2.0'
 
 gem 'ipynbdiff', path: 'gems/ipynbdiff', require: 'ipynb_diff'
 
