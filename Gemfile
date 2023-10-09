@@ -400,7 +400,7 @@ group :development do
 end
 
 group :development, :test do
-  gem 'deprecation_toolkit', '~> 1.5.1', require: false
+  gem 'deprecation_toolkit', '~> 2.0.3', require: false
   gem 'bullet', '~> 7.0.7'
   gem 'parser', '~> 3.2', '>= 3.2.2.3'
   gem 'pry-byebug'
