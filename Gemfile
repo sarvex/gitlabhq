@@ -603,7 +603,7 @@ gem 'ed25519', '~> 1.3.0'
 gem 'error_tracking_open_api', path: 'gems/error_tracking_open_api'
 
 # Vulnerability advisories
-gem 'cvss-suite', '~> 3.0.1', require: 'cvss_suite'
+gem 'cvss-suite', '~> 3.1.1', require: 'cvss_suite'
 
 # Work with RPM packages
 gem 'arr-pm', '~> 0.0.12'

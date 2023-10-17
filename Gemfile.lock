@@ -389,7 +389,7 @@ GEM
       git
     css_parser (1.14.0)
       addressable
-    cvss-suite (3.0.1)
+    cvss-suite (3.1.1)
     danger (8.6.1)
       claide (~> 1.0)
       claide-plugins (>= 0.9.2)
@@ -1789,7 +1789,7 @@ DEPENDENCIES
   creole (~> 0.5.0)
   crystalball (~> 0.7.0)
   csv_builder!
-  cvss-suite (~> 3.0.1)
+  cvss-suite (~> 3.1.1)
   database_cleaner (~> 1.7.0)
   deckar01-task_list (= 2.3.2)
   declarative_policy (~> 1.1.0)
