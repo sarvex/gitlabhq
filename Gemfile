@@ -251,7 +251,7 @@ gem 'httparty', '~> 0.21.0'
 gem 'rainbow', '~> 3.0'
 
 # Progress bar
-gem 'ruby-progressbar', '~> 1.10'
+gem 'ruby-progressbar', '~> 1.13'
 
 # Linear-time regex library for untrusted regular expressions
 gem 're2', '~> 1.7.0'

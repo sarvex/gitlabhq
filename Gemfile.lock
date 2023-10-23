@@ -1434,7 +1434,7 @@ GEM
       mini_portile2 (~> 2.8)
     ruby-openai (3.7.0)
       httparty (>= 0.18.1)
-    ruby-progressbar (1.11.0)
+    ruby-progressbar (1.13.0)
     ruby-saml (1.15.0)
       nokogiri (>= 1.13.10)
       rexml
@@ -2000,7 +2000,7 @@ DEPENDENCIES
   ruby-fogbugz (~> 0.3.0)
   ruby-magic (~> 0.6)
   ruby-openai (~> 3.7)
-  ruby-progressbar (~> 1.10)
+  ruby-progressbar (~> 1.13)
   ruby-saml (~> 1.15.0)
   ruby_parser (~> 3.20.3)
   rubyzip (~> 2.3.2)
