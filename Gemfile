@@ -207,7 +207,7 @@ gem 'wikicloth', '0.8.1'
 gem 'asciidoctor', '~> 2.0.20'
 gem 'asciidoctor-include-ext', '~> 0.4.0', require: false
 gem 'asciidoctor-plantuml', '~> 0.1.1'
-gem 'asciidoctor-kroki', '~> 0.8.0', require: false
+gem 'asciidoctor-kroki', '~> 0.9.1', require: false
 gem 'rouge', '~> 4.1.3'
 gem 'truncato', '~> 0.7.12'
 gem 'nokogiri', '~> 1.15', '>= 1.15.4'
