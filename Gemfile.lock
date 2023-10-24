@@ -248,7 +248,7 @@ GEM
     asciidoctor (2.0.20)
     asciidoctor-include-ext (0.4.0)
       asciidoctor (>= 1.5.6, < 3.0.0)
-    asciidoctor-kroki (0.8.0)
+    asciidoctor-kroki (0.9.1)
       asciidoctor (~> 2.0)
     asciidoctor-plantuml (0.1.1)
       asciidoctor (>= 2.0.17, < 3.0.0)
@@ -1753,7 +1753,7 @@ DEPENDENCIES
   asana (~> 0.10.13)
   asciidoctor (~> 2.0.20)
   asciidoctor-include-ext (~> 0.4.0)
-  asciidoctor-kroki (~> 0.8.0)
+  asciidoctor-kroki (~> 0.9.1)
   asciidoctor-plantuml (~> 0.1.1)
   atlassian-jwt (~> 0.2.0)
   attr_encrypted (~> 3.2.4)!
