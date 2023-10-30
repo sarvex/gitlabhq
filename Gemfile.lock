@@ -939,7 +939,7 @@ GEM
       grpc (~> 1.0)
     knapsack (4.0.0)
       rake
-    kramdown (2.3.2)
+    kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -1900,7 +1900,7 @@ DEPENDENCIES
   kaminari (~> 1.2.2)
   kas-grpc (~> 0.2.0)
   knapsack (~> 4.0.0)
-  kramdown (~> 2.3.1)
+  kramdown (~> 2.4.0)
   kubeclient (~> 4.11.0)
   lefthook (~> 1.4.7)
   letter_opener_web (~> 2.0.0)
