@@ -142,7 +142,7 @@ gem 'hashie', '~> 5.0.0'
 gem 'kaminari', '~> 1.2.2'
 
 # HAML
-gem 'hamlit', '~> 2.15.0'
+gem 'hamlit', '~> 3.0.3'
 
 # Files attachments
 gem 'carrierwave', '~> 3.0'
