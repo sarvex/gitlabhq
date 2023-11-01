@@ -623,6 +623,6 @@ gem 'telesignenterprise', '~> 2.2'
 gem 'net-protocol', '~> 0.1.3'
 # Lock this until we make DNS rebinding work with the updated net-http:
 # https://gitlab.com/gitlab-org/gitlab/-/issues/413528
-gem 'net-http', '= 0.1.1'
+gem 'net-http', '0.3.2'
 
 gem 'duo_api', '~> 1.3'
