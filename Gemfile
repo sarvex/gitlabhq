@@ -425,7 +425,7 @@ group :development, :test do
   gem 'bundler-audit', '~> 0.9.1', require: false
 
   # Benchmarking & profiling
-  gem 'benchmark-ips', '~> 2.11.0', require: false
+  gem 'benchmark-ips', '~> 2.12.0', require: false
   gem 'benchmark-memory', '~> 0.1', require: false
 
   gem 'knapsack', '~> 4.0.0'
