@@ -58,7 +58,7 @@ PATH
   specs:
     ipynbdiff (0.4.7)
       diffy (~> 3.4)
-      oj (~> 3.13.16)
+      oj (>= 3.13.16, < 3.17.0)
 
 PATH
   remote: gems/rspec_flaky
@@ -1094,7 +1094,7 @@ GEM
       plist (~> 3.1)
       train-core
       wmi-lite (~> 1.0)
-    oj (3.13.23)
+    oj (3.16.1)
     oj-introspect (0.7.2)
       oj (>= 3.13.23)
     omniauth (2.1.0)
@@ -1930,7 +1930,7 @@ DEPENDENCIES
   oauth2 (~> 2.0)
   octokit (~> 4.15)
   ohai (~> 17.9)
-  oj (~> 3.13.21)
+  oj (~> 3.16.1)
   oj-introspect (~> 0.7)
   omniauth (~> 2.1.0)
   omniauth-alicloud (~> 2.0.1)
