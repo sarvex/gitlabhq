@@ -181,7 +181,7 @@ gem 'google-apis-androidpublisher_v3', '~> 0.34.0'
 gem 'unf', '~> 0.1.4'
 
 # Seed data
-gem 'seed-fu', '~> 2.3.7'
+gem 'seed-fu', '~> 2.3.9'
 
 # Search
 gem 'elasticsearch-model', '~> 7.2'
