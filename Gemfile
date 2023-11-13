@@ -546,7 +546,7 @@ gem 'unleash', '~> 3.2.2'
 gem 'gitlab-experiment', '~> 0.7.1'
 
 # Structured logging
-gem 'lograge', '~> 0.5'
+gem 'lograge', '~> 0.14'
 gem 'grape_logging', '~> 1.8'
 
 # DNS Lookup
