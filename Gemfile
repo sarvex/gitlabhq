@@ -41,7 +41,7 @@ gem 'view_component', '~> 3.2.0'
 # Supported DBs
 gem 'pg', '~> 1.5.3'
 
-gem 'neighbor', '~> 0.2.3'
+gem 'neighbor', '~> 0.3.1'
 
 gem 'rugged', '~> 1.6'
 gem 'grape-path-helpers', '~> 1.7.1'
