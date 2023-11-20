@@ -626,7 +626,7 @@ GEM
     gemoji (3.0.1)
     get_process_mem (0.2.7)
       ffi (~> 1.0)
-    gettext (3.4.7)
+    gettext (3.4.9)
       erubi
       locale (>= 2.0.5)
       prime
@@ -1527,7 +1527,7 @@ GEM
     simplecov_json_formatter (0.1.4)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
-    singleton (0.1.1)
+    singleton (0.2.0)
     slack-messenger (2.3.4)
     snaky_hash (2.0.0)
       hashie
