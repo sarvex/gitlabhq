@@ -620,7 +620,7 @@ gem 'telesignenterprise', '~> 2.2'
 
 # BufferedIO patch
 # Updating this version will require updating scripts/allowed_warnings.txt
-gem 'net-protocol', '~> 0.1.3'
+gem 'net-protocol', '~> 0.2.2'
 # Lock this until we make DNS rebinding work with the updated net-http:
 # https://gitlab.com/gitlab-org/gitlab/-/issues/413528
 gem 'net-http', '0.3.2'
