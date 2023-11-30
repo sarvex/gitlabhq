@@ -340,7 +340,7 @@ GEM
     capybara-screenshot (1.0.26)
       capybara (>= 1.0, < 4)
       launchy
-    carrierwave (3.0.3)
+    carrierwave (3.0.5)
       activemodel (>= 6.0.0)
       activesupport (>= 6.0.0)
       addressable (~> 2.6)
@@ -1232,7 +1232,7 @@ GEM
       pry (>= 0.13.0)
       tty-markdown
       tty-prompt
-    public_suffix (5.0.3)
+    public_suffix (5.0.4)
     puma (6.3.1)
       nio4r (~> 2.0)
     pyu-ruby-sasl (0.0.3.3)
@@ -1440,7 +1440,7 @@ GEM
       nokogiri (>= 1.13.10)
       rexml
     ruby-statistics (3.0.0)
-    ruby-vips (2.1.4)
+    ruby-vips (2.2.0)
       ffi (~> 1.12)
     ruby2_keywords (0.0.5)
     ruby_parser (3.20.3)
