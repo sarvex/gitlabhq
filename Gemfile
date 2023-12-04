@@ -276,7 +276,7 @@ gem 'connection_pool', '~> 2.0'
 gem 'redis-actionpack', '~> 5.3.0'
 
 # Discord integration
-gem 'discordrb-webhooks', '~> 3.4', require: false
+gem 'discordrb-webhooks', '~> 3.5', require: false
 
 # Jira integration
 gem 'jira-ruby', '~> 2.1.4'
