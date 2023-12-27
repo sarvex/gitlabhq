@@ -332,7 +332,7 @@ gem 'terser', '1.1.19'
 
 gem 'click_house-client', path: 'gems/click_house-client', require: 'click_house/client'
 gem 'addressable', '~> 2.8'
-gem 'tanuki_emoji', '~> 0.6'
+gem 'tanuki_emoji', '~> 0.9'
 gem 'gon', '~> 6.4.0'
 gem 'request_store', '~> 1.5.1'
 gem 'base32', '~> 0.3.0'
