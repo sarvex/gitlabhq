@@ -497,7 +497,7 @@ end
 
 gem 'octokit', '~> 4.15'
 
-gem 'gitlab-mail_room', '~> 0.0.23', require: 'mail_room'
+gem 'gitlab-mail_room', '~> 0.0.24', require: 'mail_room'
 
 gem 'email_reply_trimmer', '~> 0.1'
 gem 'html2text'
