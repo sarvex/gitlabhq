@@ -302,7 +302,7 @@ gem 'ruby-openai', '~> 3.7'
 gem 'circuitbox', '2.0.0'
 
 # Sanitize user input
-gem 'sanitize', '~> 6.0'
+gem 'sanitize', '~> 6.1'
 gem 'babosa', '~> 2.0'
 
 # Sanitizes SVG input
