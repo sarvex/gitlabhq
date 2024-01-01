@@ -19,7 +19,7 @@ gem 'rails', '~> 7.0.8'
 
 gem 'activerecord-gitlab', path: 'gems/activerecord-gitlab'
 
-gem 'bootsnap', '~> 1.16.0', require: false
+gem 'bootsnap', '~> 1.17.0', require: false
 
 gem 'openssl', '~> 3.2'
 gem 'ipaddr', '~> 1.2.5'
