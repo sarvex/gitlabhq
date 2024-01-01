@@ -530,7 +530,7 @@ gem 'spamcheck', '~> 1.3.0'
 gem 'gitaly', '~> 16.4.0'
 
 # KAS GRPC protocol definitions
-gem 'kas-grpc', '~> 0.2.0'
+gem 'kas-grpc', '~> 0.3.0'
 
 gem 'grpc', '~> 1.59.0'
 
