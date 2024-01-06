@@ -94,7 +94,7 @@ gem 'akismet', '~> 3.0'
 gem 'invisible_captcha', '~> 2.0.0'
 
 # Two-factor authentication
-gem 'devise-two-factor', '~> 4.0.2'
+gem 'devise-two-factor', '~> 5.0.0'
 gem 'rqrcode-rails3', '~> 0.1.7'
 gem 'attr_encrypted', '~> 3.2.4', path: 'vendor/gems/attr_encrypted'
 
