@@ -411,7 +411,7 @@ GEM
     dead_end (3.1.1)
     deb_version (1.0.2)
     debug_inspector (1.1.0)
-    deckar01-task_list (2.3.2)
+    deckar01-task_list (2.3.3)
       html-pipeline
     declarative (0.0.20)
     declarative_policy (1.1.0)
@@ -1795,7 +1795,7 @@ DEPENDENCIES
   csv_builder!
   cvss-suite (~> 3.1.1)
   database_cleaner (~> 1.7.0)
-  deckar01-task_list (= 2.3.2)
+  deckar01-task_list (= 2.3.3)
   declarative_policy (~> 1.1.0)
   deprecation_toolkit (~> 2.0.3)
   derailed_benchmarks
