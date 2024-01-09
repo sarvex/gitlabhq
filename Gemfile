@@ -34,7 +34,7 @@ end
 # Responders respond_to and respond_with
 gem 'responders', '~> 3.0'
 
-gem 'sprockets', '~> 3.7.0'
+gem 'sprockets', '~> 4.2.1'
 
 gem 'view_component', '~> 3.9.0'
 
