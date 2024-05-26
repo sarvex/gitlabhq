@@ -190,7 +190,7 @@ gem 'elasticsearch-api',   '7.17.8'
 gem 'aws-sdk-core', '~> 3.181.0'
 gem 'aws-sdk-cloudformation', '~> 1'
 gem 'aws-sdk-s3', '~> 1.134.0'
-gem 'faraday_middleware-aws-sigv4', '~>0.3.0'
+gem 'faraday_middleware-aws-sigv4', '~>0.6.1'
 gem 'typhoeus', '~> 1.4.0' # Used with Elasticsearch to support http keep-alive connections
 
 # Markdown and HTML processing
