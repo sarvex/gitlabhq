@@ -3,7 +3,7 @@ PATH
   specs:
     ipynbdiff (0.4.7)
       diffy (~> 3.4)
-      oj (~> 3.13.16)
+      oj (>= 3.13.16, < 3.17.0)
 
 GEM
   remote: https://rubygems.org/
@@ -49,7 +49,7 @@ GEM
       coderay (~> 1.1)
       method_source (~> 1.0)
     racc (1.7.1)
-    rack (3.0.8)
+    rack (3.0.9.1)
     rainbow (3.1.1)
     rake (13.0.6)
     regexp_parser (2.8.1)
