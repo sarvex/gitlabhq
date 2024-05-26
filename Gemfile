@@ -289,7 +289,7 @@ gem 'slack-messenger', '~> 2.3.4'
 gem 'hangouts-chat', '~> 0.1.0', require: 'hangouts_chat'
 
 # Asana integration
-gem 'asana', '~> 0.10.13'
+gem 'asana', '~> 2.0.0'
 
 # FogBugz integration
 gem 'ruby-fogbugz', '~> 0.3.0'
