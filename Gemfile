@@ -416,7 +416,7 @@ group :development, :test do
   # Prevent occasions where minitest is not bundled in packaged versions of ruby (see #3826)
   gem 'minitest', '~> 5.11.0'
 
-  gem 'spring', '~> 4.1.0'
+  gem 'spring', '~> 4.2.1'
   gem 'spring-commands-rspec', '~> 1.0.4'
 
   gem 'gitlab-styles', '~> 10.1.0', require: false
