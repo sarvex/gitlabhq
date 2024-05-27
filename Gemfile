@@ -89,7 +89,7 @@ gem 'gssapi', '~> 1.3.1', group: :kerberos
 gem 'timfel-krb5-auth', '~> 0.8', group: :kerberos
 
 # Spam and anti-bot protection
-gem 'recaptcha', '~> 5.12', require: 'recaptcha/rails'
+gem 'recaptcha', '~> 5.16', require: 'recaptcha/rails'
 gem 'akismet', '~> 3.0'
 gem 'invisible_captcha', '~> 2.0.0'
 
