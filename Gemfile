@@ -381,7 +381,7 @@ gem 'snowplow-tracker', '~> 0.8.0'
 gem 'webrick', '~> 1.8.1', require: false
 gem 'prometheus-client-mmap', '~> 0.27', require: 'prometheus/client'
 
-gem 'warning', '~> 1.3.0'
+gem 'warning', '~> 1.4.0'
 
 group :development do
   gem 'lefthook', '~> 1.4.7', require: false
