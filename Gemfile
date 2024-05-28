@@ -344,9 +344,9 @@ gem 'rack-attack', '~> 6.7.0'
 
 # Sentry integration
 gem 'sentry-raven', '~> 3.1'
-gem 'sentry-ruby', '~> 5.8.0'
-gem 'sentry-rails', '~> 5.8.0'
-gem 'sentry-sidekiq', '~> 5.8.0'
+gem 'sentry-ruby', '~> 5.17.3'
+gem 'sentry-rails', '~> 5.17.3'
+gem 'sentry-sidekiq', '~> 5.17.3'
 
 # PostgreSQL query parsing
 #
