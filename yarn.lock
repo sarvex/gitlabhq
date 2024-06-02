@@ -2756,13 +2756,20 @@
     eslint-visitor-keys "^3.3.0"
 
 "@vue/apollo-components@^4.0.0-beta.4":
-  version "4.0.0-beta.9"
-  resolved "https://registry.yarnpkg.com/@vue/apollo-components/-/apollo-components-4.0.0-beta.9.tgz#9ec6eb171783f64fff15c5f6f2484d36d12a79ce"
-  integrity sha512-+Iea9ul+NIAd8B9ZKGjJ33KwX29zPvGZK2tq4o8c71S44R6sox5obz7DjVYKWf+HuIKGMLN1UrwBsdoJNcocPQ==
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@vue/apollo-components/-/apollo-components-4.0.0.tgz#93f603bc17e6f1924a8edcc0f749a007affd86a5"
+  integrity sha512-py5gYgYQWgg56eJj5O1n8YugCYcMcu9lTtMCjwlh+QokYGXpdf5ejgSzY0j4gGcj51MgkucxF3fYQT3Xaffaqw==
   dependencies:
-    "@vue/apollo-option" "^4.0.0-beta.9"
+    "@vue/apollo-option" "^4.0.0"
 
-"@vue/apollo-option@^4.0.0-beta.4", "@vue/apollo-option@^4.0.0-beta.9":
+"@vue/apollo-option@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@vue/apollo-option/-/apollo-option-4.0.0.tgz#4fbbb7b1b17961e500ae439a90f7c2c8d82e8928"
+  integrity sha512-rZf4bLNldV9egADp3UhC2O4qmmn6L3vF/RwRJse8lgtpGFrov9qtZxl/rRg0+9UtZeOTFwTovnQo7J7C7FP3Ow==
+  dependencies:
+    throttle-debounce "^5.0.0"
+
+"@vue/apollo-option@^4.0.0-beta.4":
   version "4.0.0-beta.9"
   resolved "https://registry.yarnpkg.com/@vue/apollo-option/-/apollo-option-4.0.0-beta.9.tgz#56209e4e75acda342f4100fa5683dc8dc0265673"
   integrity sha512-hxWk9vfYFmw/CwlGm0afcCcREWxxmTUpiLad1xpaxpYC0UMqXDJEXz7WU5G0e5KdRi0/HFr1EBkqVN1UyzhsiQ==
