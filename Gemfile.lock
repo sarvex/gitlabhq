@@ -151,7 +151,7 @@ GEM
   specs:
     CFPropertyList (3.0.6)
       rexml
-    RedCloth (4.3.3)
+    RedCloth (4.3.4)
     acme-client (2.0.15)
       faraday (>= 1.0, < 3.0.0)
       faraday-retry (>= 1.0, < 3.0.0)
