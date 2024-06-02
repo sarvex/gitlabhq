@@ -152,7 +152,7 @@ GEM
     CFPropertyList (3.0.6)
       rexml
     RedCloth (4.3.3)
-    acme-client (2.0.15)
+    acme-client (2.0.17)
       faraday (>= 1.0, < 3.0.0)
       faraday-retry (>= 1.0, < 3.0.0)
     actioncable (7.0.8.1)
