@@ -499,7 +499,7 @@ GEM
       faraday (~> 1)
       multi_json
     email_reply_trimmer (0.1.6)
-    email_spec (2.2.0)
+    email_spec (2.2.2)
       htmlentities (~> 4.3.3)
       launchy (~> 2.1)
       mail (~> 2.7)
@@ -956,8 +956,8 @@ GEM
       jsonpath (~> 1.0)
       recursive-open-struct (~> 1.1, >= 1.1.1)
       rest-client (~> 2.0)
-    launchy (2.5.0)
-      addressable (~> 2.7)
+    launchy (2.5.2)
+      addressable (~> 2.8)
     lefthook (1.4.7)
     letter_opener (1.7.0)
       launchy (~> 2.2)
@@ -1053,7 +1053,7 @@ GEM
       uri
     net-http-persistent (4.0.1)
       connection_pool (~> 2.2)
-    net-imap (0.4.11)
+    net-imap (0.4.12)
       date
       net-protocol
     net-ldap (0.18.0)
@@ -1240,7 +1240,7 @@ GEM
       tty-prompt
     psych (5.1.2)
       stringio
-    public_suffix (5.0.4)
+    public_suffix (5.0.5)
     puma (6.4.2)
       nio4r (~> 2.0)
     pyu-ruby-sasl (0.0.3.3)
@@ -1827,7 +1827,7 @@ DEPENDENCIES
   elasticsearch-model (~> 7.2)
   elasticsearch-rails (~> 7.2)
   email_reply_trimmer (~> 0.1)
-  email_spec (~> 2.2.0)
+  email_spec (~> 2.2.2)
   error_tracking_open_api!
   factory_bot_rails (~> 6.2.0)
   faraday (~> 1.0)
