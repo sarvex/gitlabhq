@@ -389,7 +389,7 @@ group :development do
   gem 'solargraph', '~> 0.47.2', require: false
 
   gem 'letter_opener_web', '~> 2.0.0'
-  gem 'lookbook', '~> 2.0', '>= 2.0.1'
+  gem 'lookbook', '~> 2.3'
 
   # Better errors handler
   gem 'better_errors', '~> 2.10.1'
