@@ -388,7 +388,7 @@ GEM
     creole (0.5.0)
     crystalball (0.7.0)
       git
-    css_parser (1.14.0)
+    css_parser (1.17.1)
       addressable
     cvss-suite (3.1.1)
     danger (8.6.1)
@@ -869,7 +869,7 @@ GEM
       nokogiri (>= 1.4)
     html2text (0.2.1)
       nokogiri (~> 1.6)
-    htmlbeautifier (1.4.2)
+    htmlbeautifier (1.4.3)
     htmlentities (4.3.4)
     http (5.1.1)
       addressable (~> 2.8)
@@ -996,7 +996,7 @@ GEM
     loofah (2.21.3)
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
-    lookbook (2.0.1)
+    lookbook (2.3.1)
       activemodel
       css_parser
       htmlbeautifier (~> 1.3)
@@ -1006,7 +1006,7 @@ GEM
       redcarpet (~> 3.5)
       rouge (>= 3.26, < 5.0)
       view_component (>= 2.0)
-      yard (~> 0.9.25)
+      yard (~> 0.9)
       zeitwerk (~> 2.5)
     lru_redux (1.1.0)
     lumberjack (1.2.7)
@@ -1028,7 +1028,7 @@ GEM
     mini_histogram (0.3.1)
     mini_magick (4.10.1)
     mini_mime (1.1.5)
-    mini_portile2 (2.8.6)
+    mini_portile2 (2.8.7)
     minitest (5.11.3)
     mixlib-cli (2.1.8)
     mixlib-config (3.0.9)
@@ -1240,7 +1240,7 @@ GEM
       tty-prompt
     psych (5.1.2)
       stringio
-    public_suffix (5.0.4)
+    public_suffix (5.0.5)
     puma (6.4.2)
       nio4r (~> 2.0)
     pyu-ruby-sasl (0.0.3.3)
@@ -1926,7 +1926,7 @@ DEPENDENCIES
   lockbox (~> 1.1.1)
   lograge (~> 0.14)
   loofah (~> 2.21.3)
-  lookbook (~> 2.0, >= 2.0.1)
+  lookbook (~> 2.3)
   lru_redux
   mail (= 2.8.1)
   mail-smtp_pool (~> 0.1.0)!
