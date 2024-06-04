@@ -803,9 +803,8 @@ GEM
     grape_logging (1.8.4)
       grape
       rack
-    graphiql-rails (1.9.0)
+    graphiql-rails (1.10.0)
       railties
-      sprockets-rails
     graphlient (0.6.0)
       faraday (>= 1.0)
       faraday_middleware
@@ -1886,7 +1885,7 @@ DEPENDENCIES
   grape-swagger (~> 1.6.1)
   grape-swagger-entity (~> 0.5.2)
   grape_logging (~> 1.8)
-  graphiql-rails (~> 1.9)
+  graphiql-rails (~> 1.10)
   graphlient (~> 0.6.0)
   graphlyte (~> 1.0.0)
   graphql (~> 1.13.12)
