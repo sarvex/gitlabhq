@@ -414,7 +414,7 @@ group :development, :test do
   gem 'rspec-rails', '~> 6.0.3'
 
   # Prevent occasions where minitest is not bundled in packaged versions of ruby (see #3826)
-  gem 'minitest', '~> 5.11.0'
+  gem 'minitest', '~> 5.23.1'
 
   gem 'spring', '~> 4.2.1'
   gem 'spring-commands-rspec', '~> 1.0.4'
