@@ -401,7 +401,7 @@ end
 
 group :development, :test do
   gem 'deprecation_toolkit', '~> 2.0.3', require: false
-  gem 'bullet', '~> 7.0.7'
+  gem 'bullet', '~> 7.1.6'
   gem 'parser', '~> 3.3'
   gem 'pry-byebug'
   gem 'pry-rails', '~> 0.3.9'
