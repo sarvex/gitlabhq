@@ -279,7 +279,7 @@ gem 'redis-actionpack', '~> 5.4.0'
 gem 'discordrb-webhooks', '~> 3.5', require: false
 
 # Jira integration
-gem 'jira-ruby', '~> 2.1.4'
+gem 'jira-ruby', '~> 2.3.0'
 gem 'atlassian-jwt', '~> 0.2.0'
 
 # Slack integration
