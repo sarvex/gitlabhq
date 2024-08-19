@@ -242,7 +242,7 @@ gem 'redis-namespace', '~> 1.9.0'
 gem 'gitlab-sidekiq-fetcher', path: 'vendor/gems/sidekiq-reliable-fetch', require: 'sidekiq-reliable-fetch'
 
 # Cron Parser
-gem 'fugit', '~> 1.8.1'
+gem 'fugit', '~> 1.11.1'
 
 # HTTP requests
 gem 'httparty', '~> 0.21.0'
